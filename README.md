@@ -1,4 +1,4 @@
-# ML-and-DL
+# ML-and-DL Projects
 Code for personal projects pertaining to machine and deep learning that I've completed while learning the required libraries.
 
 Files: 
