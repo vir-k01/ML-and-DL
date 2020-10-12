@@ -3,3 +3,4 @@ Code for personal projects pertaining to machine and deep learning that I've com
 
 Files: 
 1. MNIST using Tensorflow with custom pipeline using openCV2 to classify new images.
+2. Titanic (from kaggle) using XGBoost. 
