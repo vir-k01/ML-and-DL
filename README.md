@@ -7,3 +7,4 @@ Files:
 3. Sentiment Analysis of tweets using Scikit Learn. Data from competition on Kaggle.
 4. MNIST using a CNN in keras, tried to improve performance over a regular FFNN by adjusting the model complexity. 
 5. Text-generation using RNNs : Used the notebook provided at https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_generation.ipynb; fit model to generate dialogues/screenplay for a Rick and Morty episode, based on screenplays from Rick and Morty S4. 
+6. DCGAN model to generate images of Pokemon from noise. Refernces and data sources in notebook. 
